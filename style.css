@@ -26,3 +26,7 @@ body {
   font-size: 20px;
   margin: 16px 0;
 }
+.card p {
+  font-size: 14px;
+  color: #7b879d;
+}
